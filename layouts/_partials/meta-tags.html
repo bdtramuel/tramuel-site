@@ -1,0 +1,4 @@
+{{- /* Visitor counts (GoatCounter, no cookies). Only on the published site, so previews on the Mac aren't counted. */ -}}
+{{ if hugo.IsProduction -}}
+<script data-goatcounter="https://donnell.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+{{- end }}
