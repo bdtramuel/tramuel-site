@@ -5,6 +5,19 @@
 {{- /* Paginate everything onto one page so the theme's head partial doesn't
        generate dozens of duplicate /page/N/ copies of this archive. */ -}}
 {{- $paginator := .Paginate $pages 100000 -}}
+{{- /* Search index: title, categories, tags, and the start of each post's text.
+       Published as one JSON file that the page loads only when someone searches. */ -}}
+{{- $entries := slice -}}
+{{- range $pages -}}
+  {{- $entries = $entries | append (dict
+    "t" .Title
+    "u" .RelPermalink
+    "c" (delimit (.Params.categories | default slice) " ")
+    "g" (delimit (.Params.tags | default slice) " ")
+    "x" (substr .Plain 0 4000)
+  ) -}}
+{{- end -}}
+{{- $index := resources.FromString "search-index.json" ($entries | jsonify) | fingerprint -}}
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Locale }}" dir="{{ or .Site.Language.Direction "ltr" }}">
   {{ partial "head.html" . }}
@@ -17,6 +30,13 @@
         <h1 class="list-header-title">{{ .Title | markdownify }}</h1>
         {{ with .Description }}<p class="list-header-subtext">{{ . }}</p>{{ end }}
       </header>
+      <div class="archive-search" role="search">
+        <label for="archive-search-input" class="sr-only">Search the blog</label>
+        <input id="archive-search-input" class="archive-search-input" type="search" placeholder="Search by word, name, or topic" autocomplete="off" spellcheck="false" data-index="{{ $index.RelPermalink }}">
+        <p class="archive-search-status" aria-live="polite"></p>
+      </div>
+      <ol class="archive-list archive-results" hidden></ol>
+      <div class="archive-groups">
       {{ $thisYear := now.Format "2006" }}
       {{ range $pages.GroupByDate "2006" }}
         {{ if eq .Key $thisYear }}
@@ -37,8 +57,12 @@
           </section>
         {{ end }}
       {{ end }}
+      </div>
     </main>
     {{ partial "footer.html" . }}
     {{ partial "scripts.html" . }}
+    {{ with resources.Get "js/archive-search.js" | minify | fingerprint -}}
+    <script defer src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+    {{- end }}
   </body>
 </html>
