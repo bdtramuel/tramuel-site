@@ -1,0 +1,55 @@
+- id: '868'
+  parent: '0'
+  author: Roschelle
+  date: '2011-03-09T06:42:55-05:00'
+  content: This is beautiful :)
+- id: '865'
+  parent: '0'
+  author: sunnydelyte21
+  date: '2011-03-09T14:27:58-05:00'
+  content: Okay Mr. T... yeah I can rock with both of these!
+- id: '870'
+  parent: '868'
+  author: Mr.TramueL
+  date: '2011-03-09T16:07:48-05:00'
+  content: Yes it is, I had to share.
+- id: '872'
+  parent: '865'
+  author: Mr.TramueL
+  date: '2011-03-09T16:09:10-05:00'
+  content: I've been reading these over and over ... rocking with you.
+- id: '869'
+  parent: '0'
+  author: MzSporadic
+  date: '2011-03-10T08:51:53-05:00'
+  content: Nice!!!!!
+- id: '873'
+  parent: '872'
+  author: sunnydelyte21
+  date: '2011-03-10T11:14:27-05:00'
+  content: LOL
+- id: '871'
+  parent: '869'
+  author: Mr.TramueL
+  date: '2011-03-11T04:46:37-05:00'
+  content: QB! I'm glad you like this ;)
+- id: '866'
+  parent: '0'
+  author: loverzquarrel
+  date: '2011-03-24T15:14:44-04:00'
+  content: I'm feeling this post!
+- id: '864'
+  parent: '0'
+  author: kbuttafly
+  date: '2011-03-26T00:04:02-04:00'
+  content: Confirmation indeed!....Thanks for sharing King!
+- id: '867'
+  parent: '0'
+  author: Enigma
+  date: '2011-04-01T09:13:11-04:00'
+  content: 'Mr. TramueL! You know I am a huge fan of quotes!!
+
+    \*scrolls up and reads again\*
+
+
+    Yes, love love lovee it!!'

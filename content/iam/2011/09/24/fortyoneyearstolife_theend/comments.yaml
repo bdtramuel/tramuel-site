@@ -1,0 +1,50 @@
+- id: '1323'
+  parent: '0'
+  author: Nightfall
+  date: '2011-09-24T11:14:20-04:00'
+  content: I gotta check the entire series today. Too much talent right here.
+- id: '1322'
+  parent: '0'
+  author: Ms. Nikks
+  date: '2011-09-24T14:09:53-04:00'
+  content: This was fantastic Mr. Tram! Thank you so much for asking me to be a part of it! All this knowledge in one place and it's all free! Doesn't get much better than that.
+- id: '1325'
+  parent: '1322'
+  author: sunnydelyte21
+  date: '2011-09-26T09:42:02-04:00'
+  content: Yes this was a creative series to say the least...you got a bunch of different people together on one subject...always gonna be an amazing outcome.
+- id: '1321'
+  parent: '0'
+  author: Enigma
+  date: '2011-09-26T16:42:17-04:00'
+  content: This was such a brilliant idea!! Loved everyone's individual contribution on a common idea and so glad I was able to be a part of it! :-)
+- id: '1328'
+  parent: '1323'
+  author: Mr.TramueL
+  date: '2011-09-27T15:52:35-04:00'
+  content: Defintiely! I was blown away by the repsonses.
+- id: '1327'
+  parent: '1322'
+  author: Mr.TramueL
+  date: '2011-09-27T15:53:24-04:00'
+  content: You're welcome & thank you for being a part of this.
+- id: '1329'
+  parent: '1325'
+  author: Mr.TramueL
+  date: '2011-09-27T15:53:55-04:00'
+  content: Yes, amazing outcome S.!
+- id: '1324'
+  parent: '1321'
+  author: Mr.TramueL
+  date: '2011-09-27T15:55:15-04:00'
+  content: Thank you for the love && for participating, your quote was full of awsomeness.
+- id: '1320'
+  parent: '0'
+  author: shetraces
+  date: '2011-12-16T19:35:58-05:00'
+  content: 'What a great montage, I''m glad to know most people on your list, one way or another. #community'
+- id: '1326'
+  parent: '1320'
+  author: Unknown Black Male
+  date: '2011-12-17T20:05:30-05:00'
+  content: This series was inspiring, glad to have you a part of our community ;)

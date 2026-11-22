@@ -1,0 +1,20 @@
+- id: '1072'
+  parent: '0'
+  author: Miz
+  date: '2011-07-01T11:53:46-04:00'
+  content: I really like this! Thanks for sharing! Have a great, spectacular weekend.
+- id: '1073'
+  parent: '0'
+  author: sunnydelyte21
+  date: '2011-07-01T11:56:39-04:00'
+  content: I know that's right...be thankful!!
+- id: '1075'
+  parent: '1072'
+  author: Mr.TramueL
+  date: '2011-07-01T17:09:37-04:00'
+  content: Thank you Miz' and likewise. I'm ready!
+- id: '1074'
+  parent: '1073'
+  author: Mr.TramueL
+  date: '2011-07-01T17:11:45-04:00'
+  content: We lose sight of what is important sometimes. Definitely have to remain thankful. Thank you for coming through :-P

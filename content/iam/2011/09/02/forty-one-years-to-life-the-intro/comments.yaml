@@ -1,0 +1,20 @@
+- id: '1153'
+  parent: '0'
+  author: '*J'
+  date: '2011-09-17T10:42:56-04:00'
+  content: This was a very unique idea. I'm glad that I had an opportunity to be a part of it. Thank you.
+- id: '1152'
+  parent: '0'
+  author: jenndiva
+  date: '2011-09-23T02:52:47-04:00'
+  content: I think that this series has been great. I agree with J that it was a good idea and I truly enjoyed it. I love how you got everyone to join in to celebrate your birthday and to share our thoughts and opinions on age. It was a lot of fun to write about and read.
+- id: '1155'
+  parent: '1153'
+  author: Mr.TramueL
+  date: '2011-09-23T11:57:41-04:00'
+  content: Thank you & you're welcome. It has been a great experience.
+- id: '1154'
+  parent: '1152'
+  author: Mr.TramueL
+  date: '2011-09-23T12:01:22-04:00'
+  content: Thank you Jennifer, I appreciate your words & your participation.

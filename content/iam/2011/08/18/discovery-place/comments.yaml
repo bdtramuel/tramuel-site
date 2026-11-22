@@ -1,0 +1,47 @@
+- id: '1116'
+  parent: '0'
+  author: Melzie
+  date: '2011-08-18T20:07:30-04:00'
+  content: This is my type of adventure. We used to have a children's science museum in DC, it was a great place for learning, exploring and thinking outside the box. What a shame they didn't keep it open :-(.
+- id: '1120'
+  parent: '1116'
+  author: Mr.TramueL
+  date: '2011-08-19T13:12:15-04:00'
+  content: I take for granted what my city presents sometimes. I lived in Georgia for a while but didn't visit any of the museums and historic sites until I moved away. We need to support arts and science.
+- id: '1117'
+  parent: '0'
+  author: Discovery Place
+  date: '2011-08-22T09:23:09-04:00'
+  content: 'Thanks for the nice post. We appreciate you visiting!
+
+    Logan Stewart
+
+    Manager, Marketing & PR
+
+    Discovery Place
+
+    logans@discoveryplace.org'
+- id: '1119'
+  parent: '1117'
+  author: Mr.TramueL
+  date: '2011-08-22T16:29:34-04:00'
+  content: Thank you. I had a great time, definitely have to visit more. There was a HUGE family reunion while I was there, from a marketing & advertising standpoint promoting to families and sourcing for information in Social Media is an excellent tool.
+- id: '1121'
+  parent: '1120'
+  author: sunnydelyte21
+  date: '2011-08-31T14:43:07-04:00'
+  content: 'It seems like an idea place to go to learn a few things. My kind of place. Melzie reminded me of my childhood when I went to a science camp. (I''ll wait for people to pick their jaws up. LOL). I had the time of my life, one of my childhood friends still has the video we made, of what we learned.
+
+    Love learning new things!!'
+- id: '1122'
+  parent: '1121'
+  author: Mr.TramueL
+  date: '2011-09-02T11:52:41-04:00'
+  content: 'I can see you in space camp. Lol. I have fond memories of camp(s), I love learning new things too.
+
+    Eternal Student.'
+- id: '1118'
+  parent: '0'
+  author: 'Coming From Where I’m From: The Tram Stamp (…of Approval) « Ms. Nikks'
+  date: '2012-04-24T02:54:55-04:00'
+  content: '[...] already written about Discovery Place  “… an organization dedicated to inspiring exploration of the natural and social world through [...]'

@@ -1,0 +1,14 @@
+{{- /* Comments carried over from Squarespace (comments.yaml in a post's folder).
+       Read-only. Replies sit under the comment they answered. */ -}}
+{{- $all := .all -}}
+{{- with sort (where $all "parent" .parent) "date" -}}
+<ol class="comment-list">
+  {{- range . }}
+  <li class="comment">
+    <p class="comment-meta"><span class="comment-author">{{ .author }}</span> <time datetime="{{ .date }}">{{ time.Format "Jan 2, 2006" .date }}</time></p>
+    <div class="comment-body">{{ .content | markdownify }}</div>
+    {{ partial "comment-thread.html" (dict "all" $all "parent" .id) }}
+  </li>
+  {{- end }}
+</ol>
+{{- end -}}

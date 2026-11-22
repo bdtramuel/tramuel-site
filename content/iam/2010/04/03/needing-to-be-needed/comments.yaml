@@ -1,0 +1,41 @@
+- id: '42'
+  parent: '0'
+  author: sunnydelyte21
+  date: '2010-04-04T22:13:03-04:00'
+  content: 'U are one silly man.
+
+    CTFU @ I don’t want another another feminine moment. I can’t stand the smell of that night blooming jasmine.'
+- id: '44'
+  parent: '0'
+  author: goddess intellect
+  date: '2010-04-05T13:32:48-04:00'
+  content: 'I need you, thx.
+
+    "Be aware of your effect on others."
+
+    I''m learning that this year...I guess I really do matter lol'
+- id: '45'
+  parent: '42'
+  author: Mr.TramueL
+  date: '2010-04-05T21:53:58-04:00'
+  content: Lol! or Cucumber Melon.
+- id: '47'
+  parent: '44'
+  author: Mr.TramueL
+  date: '2010-04-05T21:58:15-04:00'
+  content: Thanks for needing me! & yes you do matter, where would we be without The Goddess?! (Dont answer it was rhetorical) Lol!
+- id: '43'
+  parent: '0'
+  author: Ms. Nikks
+  date: '2010-04-06T02:04:12-04:00'
+  content: Lmao, have I told you lately that I love you Mr. TramueL?! Heehee!
+- id: '48'
+  parent: '44'
+  author: Ms. Nikks
+  date: '2010-04-06T02:04:41-04:00'
+  content: '"I guess I really do matter..." duh! Lmao. Naw I know what you mean.'
+- id: '46'
+  parent: '43'
+  author: Mr.TramueL
+  date: '2010-04-06T07:51:29-04:00'
+  content: That guy must be incredible! Oh to be loved by Ms. Nikks. Mr.TramueL loves you too!

@@ -1,0 +1,20 @@
+{{- /* Finds a post's thumbnail. Returns a dict with either "image" (a file in the
+       post's folder) or "remote" (a URL, used while images still live on Squarespace).
+       Order: a resource named featuredImage, then the `thumbnail` front matter value,
+       then the first image in the post's folder. */ -}}
+{{- $image := .Resources.GetMatch "featuredImage" -}}
+{{- $remote := "" -}}
+{{- if not $image -}}
+  {{- with .Params.thumbnail -}}
+    {{- $image = $.Resources.GetMatch . -}}
+    {{- if not $image -}}
+      {{- $remote = . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if and (not $image) (not $remote) -}}
+  {{- with .Resources.ByType "image" -}}
+    {{- $image = index . 0 -}}
+  {{- end -}}
+{{- end -}}
+{{- return (dict "image" $image "remote" $remote) -}}

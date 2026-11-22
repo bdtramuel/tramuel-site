@@ -1,0 +1,47 @@
+- id: '702'
+  parent: '0'
+  author: Melzie
+  date: '2010-11-06T11:28:02-04:00'
+  content: Hey Tram! That animation really makes all those "requirements" sound utterly ridiculous, huh? Enjoy your weekend!
+- id: '701'
+  parent: '0'
+  author: JSin
+  date: '2010-11-06T12:35:36-04:00'
+  content: Wow! Bro that was a great post. The way your broke everything down was amazing. Thanks sir!
+- id: '703'
+  parent: '702'
+  author: Mr.TramueL
+  date: '2010-11-06T15:01:18-04:00'
+  content: Thanks CG & Likewise!
+- id: '705'
+  parent: '701'
+  author: Mr.TramueL
+  date: '2010-11-06T15:02:13-04:00'
+  content: No problem homie! It's a movement!
+- id: '706'
+  parent: '701'
+  author: Ms. Nikks
+  date: '2010-11-07T15:51:21-05:00'
+  content: 'Oh JSin, that''s how Tram rolls. He fancy with it!
+
+    Seriously though, great post and I love the look of it. You shared it in a very nice way.
+
+
+    I adore JSin''s site and his points of view. Always something refreshing and something to think about. That''s what it should be about, encouraging others to think and grow.'
+- id: '707'
+  parent: '706'
+  author: Mr.TramueL
+  date: '2010-11-07T20:16:08-05:00'
+  content: Thanks my e-love
+- id: '700'
+  parent: '0'
+  author: sunnydelyte21
+  date: '2010-11-08T12:30:44-05:00'
+  content: 'Love the way you put you spin on things!!
+
+    Great way to showcase Jsin!!'
+- id: '704'
+  parent: '700'
+  author: Mr.TramueL
+  date: '2010-11-09T00:33:18-05:00'
+  content: Thanks S.!

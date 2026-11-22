@@ -1,0 +1,10 @@
+- id: '1890'
+  parent: '0'
+  author: Almond Brown
+  date: '2014-03-14T10:01:12-04:00'
+  content: "You shared a few gems but my personal favorites, which I will be \"stealing\" by the way, are:\n\n1. Big people monopolize the listening. Small people monopolize the talking; and  \n   2. Don't believe everything you think."
+- id: '1891'
+  parent: '1890'
+  author: Brian TramueL
+  date: '2014-03-15T08:05:54-04:00'
+  content: My favorite is "Don't believe everything you think"

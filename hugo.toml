@@ -1,0 +1,61 @@
+baseURL = "https://www.tramuel.com/"
+locale = "en-US"
+title = "TramueL, Brian"
+theme = "noesis"
+timeZone = "America/New_York"
+
+# Squarespace URLs are kept exactly as they were, including a few with capital letters.
+disablePathToLower = true
+enableRobotsTXT = true
+summaryLength = 45
+
+[pagination]
+  pagerSize = 12
+
+# Categories get their own pages. Tags stay in each post's front matter but don't
+# generate pages (the old site had about 2,400 of them).
+[taxonomies]
+  category = "categories"
+
+[params]
+  brand = "TramueL, Brian"
+  description = "Notes From Here, by Brian TramueL."
+  # Everything in these folders shows up in the one feed on the home page and in the Blog archive.
+  mainSections = ["iam", "eye-tramuel", "recipes", "bibliophile"]
+  cardDescriptionLength = 180
+  # "Reply by email" at the end of each post goes to this address. Leave it empty to hide the link.
+  replyEmail = "brian@tramuel.com"
+
+  [params.author]
+    name = "Brian TramueL"
+
+  [params.navigation]
+    rssInMenu = false
+
+  # Add links here and they appear in the footer, for example:
+  # instagram = "https://www.instagram.com/yourname"
+  [params.socials]
+
+[menus]
+  [[menus.main]]
+    name = "Blog"
+    pageRef = "/iam"
+    weight = 10
+  [[menus.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 20
+  [[menus.main]]
+    name = "Eyetramuel"
+    pageRef = "/eyetramuel"
+    weight = 30
+
+[markup]
+  [markup.goldmark.renderer]
+    # Old posts carry some HTML (embeds, tables, audio). Let it through.
+    unsafe = true
+  [markup.highlight]
+    style = "evergarden"
+
+[services.rss]
+  limit = 30

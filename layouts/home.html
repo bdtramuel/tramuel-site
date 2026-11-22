@@ -1,0 +1,72 @@
+{{- /* Noesis home page, changed for tramuel.com:
+       cover art takes the headshot's place, and the right-hand rail is gone. */ -}}
+{{- $pages := .Pages -}}
+{{- if .IsHome -}}
+  {{- $pages = where .Site.RegularPages "Section" "in" .Site.MainSections -}}
+{{- end -}}
+{{- $paginator := .Paginate (where $pages "Params.displayinlist" "!=" false) -}}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Locale }}" dir="{{ or .Site.Language.Direction "ltr" }}">
+  {{ partial "head.html" . }}
+  <body class="list-body home-body">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    {{ partial "nav-bar.html" . }}
+    <main id="main-content" class="site-main home-main" tabindex="-1">
+      {{ if or (not (eq .Description "")) (not (eq .Title "")) -}}
+      <header class="home-hero side-padding">
+        <div class="home-hero-grid">
+          <div class="home-hero-copy">
+            {{ with (.Params.eyebrow | default "" | strings.TrimSpace) }}<p class="hero-eyebrow">{{ . | markdownify }}</p>{{ end }}
+            {{ with .Title }}<h1 class="home-hero-title">{{ . | markdownify }}</h1>{{ end }}
+            {{ with .Description }}<p class="home-hero-text">{{ . | markdownify }}</p>{{ end }}
+          </div>
+          {{ with .Params.coverimage -}}
+          {{ $cover := $.Resources.GetMatch . }}
+          {{ if not $cover }}{{ $cover = resources.GetMatch . }}{{ end }}
+          {{ with $cover -}}
+          <div class="home-headshot-card home-cover-card">
+            {{ partial "responsive-image.html" (dict
+              "image" .
+              "class" "home-headshot home-cover"
+              "alt" ($.Params.coveralt | default "")
+              "widths" (slice 340 680 1020)
+              "sizes" "(min-width: 760px) clamp(240px, 27vw, 340px), 100vw"
+              "loading" "eager"
+            ) }}
+          </div>
+          {{- end }}
+          {{- end }}
+        </div>
+      </header>
+      {{- end }}
+      {{ with .Content -}}
+      <section class="list-header-content side-padding">
+        {{ . }}
+      </section>
+      {{- end }}
+      <section id="writing" class="writing-section side-gutter" aria-labelledby="writing-title">
+        <div class="writing-layout">
+          <div class="writing-column">
+            <header class="section-header">
+              <h2 id="writing-title">{{ with .Params.writingtitle }}{{ . }}{{ else }}Recent Posts{{ end }}</h2>
+              {{ with .Params.writingsubtitle }}<p class="section-subtitle">{{ . }}</p>{{ end }}
+            </header>
+            <div class="post-list">
+              {{- range $paginator.Pages -}}
+                {{ .Render "li" }}
+              {{- end }}
+            </div>
+            {{ if or ($paginator.HasPrev) ($paginator.HasNext) -}}
+            <nav class="pagination-nav" aria-label="Writing pagination">
+              {{ if $paginator.HasPrev }}<a href="{{ $paginator.Prev.URL }}" class="pagination-newer pagination-text">&larr; Newer Posts</a>{{ end }}
+              {{ if $paginator.HasNext }}<a href="{{ $paginator.Next.URL }}" class="pagination-older pagination-text">Older Posts &rarr;</a>{{ end }}
+            </nav>
+            {{- end }}
+          </div>
+        </div>
+      </section>
+    </main>
+    {{ partial "footer.html" . }}
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

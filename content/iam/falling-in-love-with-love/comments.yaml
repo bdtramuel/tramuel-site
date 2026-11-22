@@ -1,0 +1,53 @@
+- id: '1711'
+  parent: '0'
+  author: GlobeTracer
+  date: '2013-08-27T01:05:32-04:00'
+  content: A beautiful state. Wish you and The Future the best!
+- id: '1717'
+  parent: '1711'
+  author: Brian TramueL
+  date: '2013-08-27T06:19:17-04:00'
+  content: Thank you Trace', it is appreciated.
+- id: '1712'
+  parent: '0'
+  author: Rev. Reginald Boyd Jr
+  date: '2013-08-27T10:03:26-04:00'
+  content: Celebrate this space you are in. Most people never get to this place of self
+- id: '1714'
+  parent: '0'
+  author: SingLikeSassy Vaughan
+  date: '2013-08-27T11:02:52-04:00'
+  content: 'I wrote about this a little bit on my blog. I''m just starting to date again post-divorce (I did a little bit of dating during my separation and then stopped cause I realized I needed to heal) and the idea of getting married again seems daunting. I loved being married. I loved my husband. But right now, I just want to take baby steps. Meet somebody. Go out on a date. See where it does from there. Not anti-marriage, just not rushing headlong into marriage, if that makes sense.
+
+
+    Either way, I''m adding you to my must read blogs list. Take care.'
+- id: '1713'
+  parent: '0'
+  author: Sunny
+  date: '2013-08-27T13:06:05-04:00'
+  content: "wait a minute? i deleted my beautifully written comment yet again!!!! UGGG!\n  \n  \nGreat post!"
+- id: '1715'
+  parent: '1712'
+  author: Brian TramueL
+  date: '2013-08-27T22:18:33-04:00'
+  content: A part of my transformation. Eternal student.
+- id: '1718'
+  parent: '1714'
+  author: Brian TramueL
+  date: '2013-08-27T22:22:05-04:00'
+  content: "Thank you for the compliment of reading & commenting.  \n& it makes perfect sense, continue to balance your head and heart. You will find your way.  \nI love personal blogs & would love to read yours ... please share the link."
+- id: '1716'
+  parent: '1713'
+  author: Brian TramueL
+  date: '2013-08-27T22:24:28-04:00'
+  content: "Lol! I'm getting use to this new platform myself. I deleted this post accidentally after I had it edited perfectly. Gone. Start from scratch.  \nThank you ;)"
+- id: '1719'
+  parent: '1716'
+  author: Sunny
+  date: '2013-08-30T16:40:57-04:00'
+  content: How do I subscribe to this blog? I can't find it!!
+- id: '1720'
+  parent: '1719'
+  author: Brian TramueL
+  date: '2013-08-31T12:28:50-04:00'
+  content: Thanks S. for bringing this to my attention. I will add a subscribe button today ;) [We are still learning over here]

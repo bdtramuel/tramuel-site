@@ -1,0 +1,6 @@
+{{- /* Squarespace serves resized copies when asked; everything else is passed through. */ -}}
+{{- $url := .url -}}
+{{- if and (strings.Contains $url "squarespace") (not (strings.Contains $url "?")) -}}
+  {{- $url = printf "%s?format=%s" $url (.format | default "750w") -}}
+{{- end -}}
+{{- return $url -}}

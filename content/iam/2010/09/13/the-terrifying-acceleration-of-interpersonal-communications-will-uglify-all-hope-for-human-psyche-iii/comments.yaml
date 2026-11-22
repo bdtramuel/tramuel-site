@@ -1,0 +1,20 @@
+- id: '567'
+  parent: '0'
+  author: roschelle
+  date: '2010-09-13T01:35:00-04:00'
+  content: some interesting looking apps. i'm sure i'll be checking a few of 'em out soon.
+- id: '566'
+  parent: '0'
+  author: Melzie
+  date: '2010-09-14T20:59:29-04:00'
+  content: Yeah, I think it's time for me to take a look at some new stuff and Writerous sounds like a good start. Thanks for sharing!
+- id: '565'
+  parent: '0'
+  author: Ms. Nikks
+  date: '2010-09-15T22:27:01-04:00'
+  content: Windows, boooooo!!!!
+- id: '568'
+  parent: '565'
+  author: Mr.TramueL
+  date: '2010-09-16T12:10:55-04:00'
+  content: LOL! Next installment will be dedicated to you & your Mac.

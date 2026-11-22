@@ -1,0 +1,50 @@
+{{- /* Eyetramuel: photo posts first (newest first), then the older Squarespace
+       gallery listed under `gallery` in content/eyetramuel/index.md. */ -}}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Locale }}" dir="{{ or .Site.Language.Direction "ltr" }}">
+  {{ partial "head.html" . }}
+  <body class="list-body eyetramuel-body">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    {{ partial "nav-bar.html" . }}
+    <main id="main-content" class="site-main list-main side-gutter" tabindex="-1">
+      <header class="list-header">
+        <p class="section-kicker">Images</p>
+        <h1 class="list-header-title">{{ .Title | markdownify }}</h1>
+        {{ with .Description }}<p class="list-header-subtext">{{ . }}</p>{{ end }}
+      </header>
+      {{ with .Content }}<section class="list-header-content">{{ . }}</section>{{ end }}
+      <ul class="photo-grid">
+        {{ range where .Site.RegularPages "Section" "eye-tramuel" }}
+          {{ $thumb := partial "thumb-source.html" . }}
+          {{ if or $thumb.image $thumb.remote }}
+          <li>
+            <a href="{{ .RelPermalink }}" class="photo-tile" aria-label="{{ .Title | plainify }}">
+              {{ with $thumb.image }}
+              {{ partial "responsive-image.html" (dict "image" . "widths" (slice 320 640) "sizes" "(min-width: 760px) 200px, 50vw") }}
+              {{ else }}
+              <img src="{{ partial "remote-image-url.html" (dict "url" $thumb.remote "format" "500w") }}" alt="" loading="lazy" decoding="async">
+              {{ end }}
+            </a>
+          </li>
+          {{ end }}
+        {{ end }}
+        {{ range .Params.gallery }}
+          {{ $local := $.Resources.GetMatch . }}
+          <li>
+            {{ with $local }}
+            <a href="{{ .RelPermalink }}" class="photo-tile">
+              {{ partial "responsive-image.html" (dict "image" . "widths" (slice 320 640) "sizes" "(min-width: 760px) 200px, 50vw") }}
+            </a>
+            {{ else }}
+            <a href="{{ partial "remote-image-url.html" (dict "url" . "format" "2500w") }}" class="photo-tile">
+              <img src="{{ partial "remote-image-url.html" (dict "url" . "format" "500w") }}" alt="" loading="lazy" decoding="async">
+            </a>
+            {{ end }}
+          </li>
+        {{ end }}
+      </ul>
+    </main>
+    {{ partial "footer.html" . }}
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

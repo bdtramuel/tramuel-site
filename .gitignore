@@ -1,0 +1,10 @@
+public/
+resources/_gen/
+.hugo_build.lock
+.DS_Store
+tools/bin/
+tools/preview.log
+tools/*.zip
+tools/image-results.txt
+*.part
+_drafts/

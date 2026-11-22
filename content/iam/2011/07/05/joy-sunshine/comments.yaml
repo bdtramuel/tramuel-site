@@ -1,0 +1,15 @@
+- id: '1076'
+  parent: '0'
+  author: JSin
+  date: '2011-07-07T20:53:12-04:00'
+  content: Good post. I enjoyed it.
+- id: '1077'
+  parent: '1076'
+  author: Mr.TramueL
+  date: '2011-07-08T12:00:55-04:00'
+  content: Thanks J' ... attempting to document my thoughts at every surreal moment.
+- id: '1078'
+  parent: '1077'
+  author: sunnydelyte21
+  date: '2011-07-18T14:38:45-04:00'
+  content: Its always good when you can hang around family and truly enjoy yourself.

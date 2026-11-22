@@ -1,0 +1,26 @@
+{{- $thumb := partial "thumb-source.html" . -}}
+<li class="archive-row">
+  <a href="{{ .RelPermalink }}" class="archive-link" rel="bookmark">
+    <span class="archive-text">
+      <span class="archive-title">{{ .Title | markdownify }}</span>
+      <span class="archive-meta">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2" }}</time>
+        {{- with partial "card-description.html" . }}<span class="archive-snippet">{{ . }}</span>{{ end }}
+      </span>
+    </span>
+    {{- if or $thumb.image $thumb.remote }}
+    <span class="archive-thumb-wrap">
+      {{- with $thumb.image }}
+      {{ partial "responsive-image.html" (dict
+        "image" .
+        "class" "archive-thumb"
+        "widths" (slice 120)
+        "sizes" "60px"
+      ) }}
+      {{- else }}
+      <img class="archive-thumb" src="{{ partial "remote-image-url.html" (dict "url" $thumb.remote "format" "300w") }}" alt="" loading="lazy" decoding="async">
+      {{- end }}
+    </span>
+    {{- end }}
+  </a>
+</li>

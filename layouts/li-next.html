@@ -1,0 +1,28 @@
+{{- $thumb := partial "thumb-source.html" . -}}
+{{- $hasThumb := or $thumb.image $thumb.remote -}}
+<a href="{{ .RelPermalink }}" class="card blog-card bc-next{{ if not $hasThumb }} blog-card-text-only{{ end }}" rel="bookmark" aria-label="Next article: {{ .Title | plainify }}">
+  {{ if $hasThumb }}
+  <div class="card-img-container">
+    {{ with $thumb.image }}
+    {{ partial "responsive-image.html" (dict
+      "image" .
+      "class" "card-img"
+      "alt" .Params.description
+      "widths" (slice 400 800 1200)
+      "sizes" "(min-width: 760px) 176px, (min-width: 600px) 152px, calc(100vw - 2 * clamp(1.25rem, 4vw, 2.5rem))"
+    ) }}
+    {{ else }}
+    <img class="card-img" src="{{ partial "remote-image-url.html" (dict "url" $thumb.remote "format" "750w") }}" alt="" loading="lazy" decoding="async">
+    {{ end }}
+  </div>
+  {{- end }}
+  <article class="card-body">
+    <div class="card-subtext muted-text">
+      <p>Next Article</p>
+      {{ if isset .Params "date" }}<p><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time></p>{{ end }}
+    </div>
+    <h2 class="card-title">{{ .Title | markdownify }}</h2>
+    <p class="card-text">{{ partial "card-description.html" . }}</p>
+    <span class="card-read-more">Continue</span>
+  </article>
+</a>

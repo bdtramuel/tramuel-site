@@ -1,0 +1,44 @@
+{{- /* The Blog page: every post, newest first, grouped the way Apple Notes groups
+       notes. This year is split by month; earlier years are one group each. */ -}}
+{{- $pages := where .Site.RegularPages "Section" "in" .Site.MainSections -}}
+{{- $pages = where $pages "Params.displayinlist" "!=" false -}}
+{{- /* Paginate everything onto one page so the theme's head partial doesn't
+       generate dozens of duplicate /page/N/ copies of this archive. */ -}}
+{{- $paginator := .Paginate $pages 100000 -}}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Locale }}" dir="{{ or .Site.Language.Direction "ltr" }}">
+  {{ partial "head.html" . }}
+  <body class="list-body archive-body">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    {{ partial "nav-bar.html" . }}
+    <main id="main-content" class="site-main list-main side-gutter archive-main" tabindex="-1">
+      <header class="list-header">
+        <p class="section-kicker">Archive</p>
+        <h1 class="list-header-title">{{ .Title | markdownify }}</h1>
+        {{ with .Description }}<p class="list-header-subtext">{{ . }}</p>{{ end }}
+      </header>
+      {{ $thisYear := now.Format "2006" }}
+      {{ range $pages.GroupByDate "2006" }}
+        {{ if eq .Key $thisYear }}
+          {{ range .Pages.GroupByDate "January" }}
+          <section class="archive-group" aria-label="{{ .Key }}">
+            <h2 class="archive-heading">{{ .Key }}</h2>
+            <ol class="archive-list">
+              {{ range .Pages }}{{ partial "archive-row.html" . }}{{ end }}
+            </ol>
+          </section>
+          {{ end }}
+        {{ else }}
+          <section class="archive-group" aria-label="{{ .Key }}">
+            <h2 class="archive-heading">{{ .Key }}</h2>
+            <ol class="archive-list">
+              {{ range .Pages }}{{ partial "archive-row.html" . }}{{ end }}
+            </ol>
+          </section>
+        {{ end }}
+      {{ end }}
+    </main>
+    {{ partial "footer.html" . }}
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

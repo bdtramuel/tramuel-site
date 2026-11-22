@@ -1,0 +1,9 @@
+{{- /* Audio in a post: {{< audio src="voice-memo.m4a" caption="Optional caption" >}}
+       The file can sit in the post's folder or be a full URL. */ -}}
+{{- $src := "" -}}
+{{- if .IsNamedParams -}}{{- $src = .Get "src" -}}{{- else -}}{{- $src = .Get 0 -}}{{- end -}}
+{{- with .Page.Resources.GetMatch $src -}}{{- $src = .RelPermalink -}}{{- end -}}
+<figure class="post-audio">
+  <audio controls preload="none" src="{{ $src }}"></audio>
+  {{ if .IsNamedParams }}{{ with .Get "caption" }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}{{ end }}
+</figure>
