@@ -33,6 +33,8 @@ I Touch the warmth of her skin against mine, it is both familiar and electrifyin
 
 I Taste a symphony of summer's embrace, where the first bite releases a cascade of sweetness, the same as a gentle kiss from the sun. It sits on my tongue, light and crisp. It's a fleeting moment of pure joy, a juicy revelation that quenches the soul leaving behind a lingering note of nostalgia.
 
+{{< video src="video.mp4" >}}
+
 ***"I don't think people understand how observant Virgos are." ~ Some Random Nig’ On Twitter***
 
 What a Time,

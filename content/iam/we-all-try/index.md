@@ -11,4 +11,4 @@ images:
 - We-All-Try.webp
 ---
 
-
+{{< song title="We All Try" artist="Frank Ocean" >}}

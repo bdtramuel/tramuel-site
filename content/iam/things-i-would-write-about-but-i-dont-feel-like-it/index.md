@@ -52,3 +52,5 @@ The 80/20 relationship theory states that you can only get about 80% of your wan
 ### **Stasis**
 
 A period or state of inactivity or equilibrium.
+
+{{< video src="video.mp4" >}}

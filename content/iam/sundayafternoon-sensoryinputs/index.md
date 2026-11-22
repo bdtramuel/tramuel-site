@@ -24,4 +24,6 @@ The silence is not empty. Below, the occasional hum of engines and scattered voi
 
 I let my senses root me here. The cool air brushes my skin; the scent of lemon sharpens my focus. The weight of the book grounds me, its crisp pages demanding a tactile engagement that screens never will. This is a Sunday I wish to keep… cold, quiet, and full of small warmths.
 
+{{< video src="video.mp4" >}}
+
 I Am

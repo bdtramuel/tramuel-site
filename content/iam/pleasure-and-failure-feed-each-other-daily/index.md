@@ -19,6 +19,8 @@ images:
 
 ***Right now it's easy to feel a sense of oneness with everyone around you. It's the result of an internal recalibration, rather than an external one. It doesn't have to be defined right now.***
 
+{{< video src="video.mp4" >}}
+
 The title was pulled from my Co-Star Astrology daily update. We all have choices, and one of the largest benefits of astrology is the ability to understand ourselves better beyond *for* *entertainment purposes only*.
 
 There aren’t many times my daily update does not have a direct correlation to my actual day. I’ve had a few conversations surrounding peace, happiness, and position in life this past week.

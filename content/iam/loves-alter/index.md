@@ -19,6 +19,8 @@ images:
 
 ![](image-asset.webp)
 
+{{< song "https://music.apple.com/us/album/stay-ready-what-a-life-feat-kendrick-lamar/1443200234?i=1443200596" >}}
+
 We do not exist in  
 Any other instant  
 Here in this dimension  

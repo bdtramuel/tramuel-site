@@ -42,4 +42,6 @@ Take their side or no side. If in your mind the simplest problems are “always�
 
 And that’s cool, but dead the friendship and stop masking yourself as someone who cares.
 
+{{< video src="video.mp4" >}}
+
 I Am

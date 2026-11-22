@@ -37,6 +37,8 @@ In unhealthy cultures, people see rest as taking your foot off the gas pedal. Yo
 
 I've always contended that I need space and seclusion to pull up my strength.
 
+{{< video src="video.mp4" >}}
+
 I went home (Roanoke) for a few days, and while there I was introspective and shit. I made two observations about nothing and yet everything.
 
 ***Health is the Vital Principle of Bliss, and Exercise, of Health***

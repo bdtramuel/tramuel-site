@@ -14,6 +14,8 @@ images:
 - img.webp
 ---
 
+{{< song "https://music.apple.com/us/album/titans-interlude/1879665951?i=1879665958" >}}
+
 ![](image-asset.webp)
 
 *We were titans  

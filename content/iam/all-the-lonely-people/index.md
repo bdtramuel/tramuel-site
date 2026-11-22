@@ -43,4 +43,4 @@ Alone, but not lonely.
 
 City Boys Up
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FU9C-mIiuOlo%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU9C-mIiuOlo&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube" width="100%" height="400" frameborder="0" allowfullscreen loading="lazy"></iframe>
+{{< youtube U9C-mIiuOlo >}}

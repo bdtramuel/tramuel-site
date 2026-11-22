@@ -1,0 +1,23 @@
+{{- /* A song, played by Apple Music's own player.
+       {{< song "https://music.apple.com/us/album/…?i=…" >}}
+       (In Apple Music: the song's … menu > Share > Copy Link.)
+       A song that isn't on Apple Music gets a plain credit line instead:
+       {{< song title="We All Try" artist="Frank Ocean" >}} */ -}}
+{{- $url := "" -}}
+{{- $title := "" -}}
+{{- $artist := "" -}}
+{{- if .IsNamedParams -}}
+  {{- $url = .Get "url" | default "" -}}
+  {{- $title = .Get "title" | default "" -}}
+  {{- $artist = .Get "artist" | default "" -}}
+{{- else -}}
+  {{- $url = .Get 0 -}}
+{{- end -}}
+{{- if $url -}}
+  {{- $embed := replace $url "https://music.apple.com/" "https://embed.music.apple.com/" -}}
+  {{- $embed = printf "%s%stheme=light" $embed (cond (strings.Contains $embed "?") "&" "?") -}}
+  {{- $height := cond (strings.Contains $embed "i=") 175 450 -}}
+<figure class="post-song"><iframe src="{{ $embed }}" height="{{ $height }}" loading="lazy" title="{{ with $title }}{{ . }}{{ else }}Apple Music player{{ end }}" allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe></figure>
+{{- else if $title -}}
+<p class="post-song-credit">♫ {{ $title }}{{ with $artist }} by {{ . }}{{ end }}</p>
+{{- end -}}

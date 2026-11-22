@@ -15,3 +15,5 @@ images:
 ---
 
 FairyTale
+
+{{< video src="video.mp4" >}}

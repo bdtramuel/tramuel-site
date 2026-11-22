@@ -13,6 +13,8 @@ images:
 - IMG_3100.webp
 ---
 
+{{< video src="video.mp4" >}}
+
 We all experience sadness— It’s a fundamental part of being human. Whether it stems from a loss, disappointment, or a difficult life situation, sadness is a natural emotion that helps us process our experiences. When I read my daily update via Co-Star I immediately understood. I don't believe I weaponize my sadness, I typically go inward and isolate not wanting to pull anyone into it. However, I recognize a fine line between feeling sad and using that sadness as a weapon in our relationships; love, marriage, friendship, family, and work. When sadness becomes a tool for manipulation, it can damage trust, create resentment, and ultimately deteriorate the foundation of even the strongest connections.
 
 Manipulation is a strong word choice,

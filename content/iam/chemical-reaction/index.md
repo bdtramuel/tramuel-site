@@ -23,7 +23,7 @@ In a physical reaction two substances are mixed or ground together without being
 
 **Science.**
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FeD0bIktmE5o%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeD0bIktmE5o&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FeD0bIktmE5o%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube" width="100%" height="400" frameborder="0" allowfullscreen loading="lazy"></iframe>
+{{< youtube eD0bIktmE5o >}}
 
 I know what I want and what I need, a chemical reaction.
 

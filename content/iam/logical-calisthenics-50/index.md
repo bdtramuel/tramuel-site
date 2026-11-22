@@ -34,3 +34,5 @@ We are at an impasse, and the only way forward is with Logical Calisthenics. Try
 The Non-No Contact Method:
 
 Practice letting go of ideas and experience the freedom available in each moment.
+
+{{< video src="video.mp4" >}}

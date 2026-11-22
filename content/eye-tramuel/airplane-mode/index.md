@@ -14,3 +14,5 @@ images:
 ---
 
 Black Coffee No Sugar No Cream
+
+{{< video src="video.mp4" >}}

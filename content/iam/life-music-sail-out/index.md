@@ -41,6 +41,8 @@ Stay Ready.
 
 I have nothing because at 3:16 in the AM I Am sleep. Second favorite song...
 
+{{< song "https://music.apple.com/us/album/3-16am/1443200234?i=1443200609" >}}
+
 ## "Comfort Inn Ending”
 
 I've been hypersensitive to the word retire the past two years. My mother retired this year and I'm determined to make sure I'm prepared for life after work. At my retirement party, before I step up to make a speech, a peer will make this introduction;*"After working all his life to obtain his objectives and finally having reached that goal, he wants to retire in peace and quiet and to have a retirement full of contemplation, with few tasks, close to nature. As he was very careful with money the second half of his life, he will administer the properties he has acquired."*

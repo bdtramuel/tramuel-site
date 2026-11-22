@@ -21,6 +21,8 @@ images:
 
 In the flow of conversation with a good friend, I assertively talked about my awareness and understanding of the dynamics of aging. In context, the discussion was specific to me as a single unknown black male. The subtext, was specific to me being alone (not lonely) as I age.
 
+{{< video src="video.mp4" >}}
+
 Aging is related to changes in dynamic biological, functional, environmental, mental, behavioral, and social processes. Some age-related changes are benign, like a graying beard. Other age-related changes result in deteriorations in the function of the senses and normal life and an increased predisposition to and frequency of disease, feebleness, or incapacity.
 
 Also in the flow of conversation, I say that I want to be as healthy as possible and as financially prepared to care for myself. 'Cause after being in long-term relationships the whole of my adult life; two marriages and subsequent divorce. Eyes MF Tied - and I see myself alone.

@@ -17,9 +17,15 @@ images:
 
 **The Seven Kingdoms imbued with Hip-Hop. Power, Women & Riches... Westeros stand up.**
 
+{{< song title="King Slayer" artist="Wale" >}}
+
 *"Family over monetary any day"*
 
+{{< song title="The Ladder" artist="Common" >}}
+
 *"Laid on the ground, now who wears the crown?"*
+
+{{< song title="Mother of Dragons" artist="Big Boi" >}}
 
 *"You win or you die, the White Walkers and Grim Reapers"*
 

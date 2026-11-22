@@ -45,6 +45,8 @@ Honestly, I don’t take rejection personally. If someone isn’t interested in 
 
 The two of you reading this know me well enough to understand that I’m not becoming an actual villain. I’m not abandoning my decency or planning to treat others poorly. What this means is that I’m done prioritizing the feelings, boundaries, and needs of others at the expense of my own.
 
+{{< video src="video.mp4" >}}
+
 ### **The Energy Balancer**
 
 In the past, I’ve tried to accommodate people I barely knew, hoping that my efforts would lead to a connection. However, this approach often left me feeling drained and unappreciated. Moving forward, I will prioritize my wants, needs, and desires.
@@ -72,6 +74,8 @@ It’s about creating space for connections that feel authentic and mutual rathe
 After all, isn’t that the real superpower?
 
 *Please don't answer...*
+
+{{< video src="video-2.mp4" >}}
 
 Y'all know the rest,
 

@@ -11,4 +11,6 @@ images:
 - leon3.webp
 ---
 
+{{< song title="Love Song" artist="Leon Timbo" >}}
+
 ![](image-asset.webp)

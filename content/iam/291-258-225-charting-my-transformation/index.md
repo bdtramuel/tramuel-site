@@ -27,6 +27,8 @@ I’m usually in bed by 9:30 PM the night before, which gives me a good night’
 
 ### **Mindful Eating and Drinking**
 
+{{< video src="video.mp4" >}}
+
 I’ve also made some big changes to my diet. Since August, I’ve been following a meatless diet, focusing on fish, eggs, cottage cheese, beans, sweet potatoes, and plenty of fresh veggies. I also juice fresh fruits daily, starting my morning with an 18 oz cold-pressed juice that breaks my fast. My current favorite? Beet juice, made with my Nama J2. I also incorporate whey protein into my day— no shakes tho', just the powder in water for 24 grams of protein per scoop.
 
 Caffeine and alcohol have taken a backseat. I’ve reduced my coffee intake to about two cups per week, and when it comes to alcohol, I only have about two glasses of red wine a month.

@@ -44,6 +44,8 @@ I am thankful for the lessons I’ve learned (read: friendships). They have shap
 
 *If the parenthetical phrase is part of a larger sentence or is an incomplete sentence, the period goes outside.*
 
+{{< video src="video.mp4" >}}
+
 I Remain,
 
 B

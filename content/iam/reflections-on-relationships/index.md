@@ -43,6 +43,8 @@ Each of these relationships was a transaction in the sense that I gave and recei
 
 I kid.
 
+{{< video src="video.mp4" >}}
+
 It feels like the purpose wasn't just about finding love again—it was about finding myself, understanding others, and realizing the richness that every relationship, no matter how temporary, can offer.
 
 B.

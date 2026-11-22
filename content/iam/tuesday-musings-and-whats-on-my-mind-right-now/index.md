@@ -37,6 +37,8 @@ Being in a position to support my family and friends emotionally and financially
 
 Navigating these complex topics—grief, intimacy, career, and family—feels like a balancing act, yet it’s one I approach with introspection and hope. Each reflection brings me closer to understanding myself and my place in the world, as I seek to find peace in honoring the past, connecting meaningfully in the present, and striving for fulfillment in the future.
 
+{{< video src="video.mp4" >}}
+
 I Remain,
 
 B.

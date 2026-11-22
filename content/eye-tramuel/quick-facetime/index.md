@@ -14,3 +14,5 @@ images:
 ---
 
 Talking to Lil’ Baby about becoming a rapper…
+
+{{< video src="video.mp4" >}}

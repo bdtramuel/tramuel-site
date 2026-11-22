@@ -23,6 +23,8 @@ images:
 
 {{< youtube fZY6Om4wRtw >}}
 
+{{< song "https://music.apple.com/us/album/for-you-i-will-wait/1052736589?i=1052736769" >}}
+
 I've said it once, more than twice  
 No reciprocity  
 We've been together for some time  

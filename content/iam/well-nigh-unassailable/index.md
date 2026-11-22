@@ -20,7 +20,7 @@ Null.
 
 It's probably safe to say that everyone has had at least one relationship where letting go seemed to hurtful to do. My observation; the emotional connection is very strong though one-sided, the emotional connection is very strong and two-sided but both parties know that the relationship's end is for the best, one party refuses to let go out of a need for control, one party refuses to let go as a response to fear of *failure*, one party refuses to let go out of a intense fear of rejection, or the relationship symbolized something to that person that it never truly was.
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FFV0cukvhwPg&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFV0cukvhwPg&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FFV0cukvhwPg%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube" width="100%" height="400" frameborder="0" allowfullscreen loading="lazy"></iframe>
+{{< youtube FV0cukvhwPg >}}
 
 Harm None,
 

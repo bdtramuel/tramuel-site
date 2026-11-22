@@ -31,4 +31,6 @@ These are hard questions to sit with, and perhaps the answers are as complex as 
 
 There’s a fine line between respecting someone’s autonomy and unintentionally feeding their hope. Navigating that line requires more than boundaries—it requires empathy, clarity, and sometimes, hard choices about the nature of the connection itself.
 
+{{< video src="video.mp4" >}}
+
 *I Am*

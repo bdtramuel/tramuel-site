@@ -21,6 +21,8 @@ We need healthier, more nourishing relationships with others. Read — Genuine c
 
 People should move forward and acknowledge that certain relationships inevitably end. Especially those lacking the profound connection or depth one may have perceived.
 
+{{< video src="video.mp4" >}}
+
 I don’t write for circumstances but solace from them,
 
 Mr. TramueL

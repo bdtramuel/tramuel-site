@@ -29,6 +29,8 @@ Things do go in cycles. Summer is coming and I’m reminded of the top five boos
 
 ### **The Booty Call Boo**
 
+{{< video src="video.mp4" >}}
+
 “wyd” They put the boo in booty. You can lead a horticulture, but you can't make them think.  Listen, listen, listen ho’ is merely short for honey, I just got lazy and dropped the ‘ney like when they drop to their kne…
 
 ### **The Summer Boo**
@@ -38,6 +40,8 @@ Things do go in cycles. Summer is coming and I’m reminded of the top five boos
 I’ma let winter and spring finish but summer is the greatest match maker of all times. The days are longer, and the weather is warmer. People feel less inhibited and willing to try new things. Quick, quick, quick… this should be short and intense because ain't no future in yo' frontin' and it won’t survive past Labor Day.
 
 ### **The Work Boo**
+
+{{< video src="video-2.mp4" >}}
 
 We spend a great deal of time at work and science proves that we form friendships with those we encounter often— The propinquity effect. We all need someone to laugh at our jokes, eat lunch with & talk about other co-workers with. Science is true, don’t be misled by facts.
 

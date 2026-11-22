@@ -17,6 +17,8 @@ images:
 
 ![](image-asset.webp)
 
+{{< song "https://music.apple.com/us/album/franks-track/1442966257?i=1442966500" >}}
+
 The rings all ring out  
 Burn out, cave in  
 Blackened to dark out  

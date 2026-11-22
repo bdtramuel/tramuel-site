@@ -28,6 +28,8 @@ And if the third-grade teacher drives a Honda Accord, the professor might drive 
 
 She is steady, focused. Moves with intention, breathes with awareness. I’ve joked before that she must be a Master Yogi, though I’m sure that’s not a real thing—and if it were, she’d probably dismiss the title with a knowing smile before quietly proving me right.
 
+{{< video src="video.mp4" >}}
+
 A Unicorn,
 
 Maybe.

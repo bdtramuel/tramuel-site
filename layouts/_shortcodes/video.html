@@ -1,0 +1,24 @@
+{{- /* A video kept in the post's own folder.
+       {{< video src="clip.mp4" >}}
+       Optional: caption="…", poster="still.jpg", loop=true.
+       A clip.jpg sitting next to clip.mp4 is used as the poster automatically. */ -}}
+{{- $name := "" -}}
+{{- $posterName := "" -}}
+{{- $caption := "" -}}
+{{- $loop := false -}}
+{{- if .IsNamedParams -}}
+  {{- $name = .Get "src" -}}
+  {{- $posterName = .Get "poster" | default "" -}}
+  {{- $caption = .Get "caption" | default "" -}}
+  {{- $loop = .Get "loop" | default false -}}
+{{- else -}}
+  {{- $name = .Get 0 -}}
+{{- end -}}
+{{- $src := $name -}}
+{{- with .Page.Resources.GetMatch $name -}}{{- $src = .RelPermalink -}}{{- end -}}
+{{- if not $posterName -}}
+  {{- $posterName = printf "%s.jpg" (strings.TrimSuffix (path.Ext $name) $name) -}}
+{{- end -}}
+{{- $poster := "" -}}
+{{- with .Page.Resources.GetMatch $posterName -}}{{- $poster = .RelPermalink -}}{{- end -}}
+<figure class="post-video"><video controls playsinline preload="{{ if $poster }}none{{ else }}metadata{{ end }}"{{ with $poster }} poster="{{ . }}"{{ end }}{{ if $loop }} loop{{ end }} src="{{ $src }}"></video>{{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}</figure>

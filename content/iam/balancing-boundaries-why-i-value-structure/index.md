@@ -25,6 +25,8 @@ I understand that friends (and romantic interests) might want more spontaneity f
 
 ***Just because I don’t, doesn’t mean I can’t.***
 
+{{< video src="video.mp4" >}}
+
 I do step outside my comfort zone at times. But I’d appreciate if those close to me could understand that structure matters to me. The Virgo in me thinks there’s always room for compromise, like planning spontaneous moments ahead of time. That way, I can adjust without disrupting the balance that keeps me grounded.
 
 The end game is about mutual understanding. By respecting each other’s boundaries and communicating openly, we can strengthen our relationships and find balance between spontaneity and stability.

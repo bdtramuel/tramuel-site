@@ -58,6 +58,8 @@ Everyday behavior in relationships is influenced by subjective commitment rather
 
 **Astrobiology.**
 
+{{< video src="video.mp4" >}}
+
 *I believe the tendency of truth, on this subject, is to equalize the sexes; and that, when truth directs us, there will be no longer assumed authority on one side, or admitted inferiority on the other; but that as we advance in the cultivation of all our powers, physical as well as intellectual and moral, we shall see that our independence is equal, our dependence mutual, and our obligations reciprocal.*
 
 *-Lucretia Mott*

@@ -29,3 +29,5 @@ There’s another delicate duality at play here: between the energy to go all in
 About to give up on the flutter in my chest, insisting patience still has value.
 
 ***“Her body language speaks poetry I could never write.”***
+
+{{< video src="video.mp4" >}}

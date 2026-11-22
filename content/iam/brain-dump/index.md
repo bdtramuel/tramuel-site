@@ -22,6 +22,8 @@ Currently listening to Justin Beiber (mute your dissent) and this verse goes so 
 
 ♫ *Focus ain't the same if the picture ain't got you in it.**In every line my emotions ain't the same if it ain't about you, I don't get it. Ever since the beginning now, you had that effect on me. All I wanna do is you, oh. I mean that so literally. Don't nobody go harder than you. All of the angels must be lonely now, without you.*
 
+{{< song "https://music.apple.com/us/album/no-sense-feat-travis-scott/1440825845?i=1440826509" >}}
+
 ### *Lens and aperture, early eras to ever afters.*
 
 I’ve been taking a lot of pictures, more than normal for me I suppose, something about it is freeing. I should invest in a new camera; my Lumix was bought second hand. Also, wouldn’t mind a few lessons on a few technical aspects … ‘cause I see what I see, [Eye TramueL](https://www.instagram.com/eyetramuel/).

@@ -14,6 +14,8 @@ images:
 - img.webp
 ---
 
+{{< song "https://music.apple.com/us/album/pretty-bird-freestyle-feat-common/1440812881?i=1440813608" >}}
+
 … Pretty bird, pretty bird, pretty bird, pretty bird  
 Sounds so pretty when you cry  
 Pretty bird, pretty bird, pretty bird, pretty bird  

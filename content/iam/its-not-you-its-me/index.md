@@ -30,3 +30,5 @@ When I feel tension, frustration, anger, and cynicism I center myself and reset.
 The best way to get there is to meet people where they are, show grace and accept them as they are. The other person is never the problem. The problem is our reaction. You are not responsible for their feelings, only how you advise them of your disinterest.
 
 Respectfully,
+
+{{< video src="video.mp4" >}}

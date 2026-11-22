@@ -12,6 +12,4 @@ images:
 - 552829_334149126650749_1129923805_n.webp
 ---
 
-{{< youtube 5li73Sk4yyQ >}}
-
 Average film, great acting ... worth the $1.99 it cost to rent it from [Vimeo on Demand](http://vimeo.com/ondemand/sarondemand).

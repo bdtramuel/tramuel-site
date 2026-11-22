@@ -29,6 +29,8 @@ In that post, I realized that we all deserve to be loved, to be seen, to receive
 
 ***“Many born on the cusp are content to admire beauty from a distance, seeing it as a quality to be adored or worshiped from afar, rather than one to approach or possess.”***
 
+{{< video src="video.mp4" >}}
+
 At this point, I’m now engaged in emotional calisthenics, and counterweights have been attached to all of my feelings.
 
 Moving forward, I will carry the lessons from 2020, but with an updated focus. Happiness is not something to be admired from a distance; it’s a new idea, one that I’m allowing myself to approach, possess, and experience fully.

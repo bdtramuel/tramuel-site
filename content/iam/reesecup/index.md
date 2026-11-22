@@ -31,6 +31,8 @@ I can count on two hands how many people have ridden in my car so I’ma say 10 
 
 I use a Drift *stone freshener*. I’m not gatekeeping, also I’m not the plug. Govern yourselves accordingly. I’ve turned The TramueL Formerly Known As on, even tho’ our styles and taste differ, it hasn’t stopped her from modeling her life after mine.
 
+{{< video src="video.mp4" >}}
+
 Lol, I’m just serious.
 
 I have platonic friendships with women and I, being a willing conduit into the world of men, suggest ideas, and gifts that their significant others would appreciate, but niggas don’t listen. They would rather it come from some random TikTok or IG influencer. Your man don’t want that shit.

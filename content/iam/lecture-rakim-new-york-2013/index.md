@@ -10,4 +10,4 @@ tags:
 - Vimeo
 ---
 
-{{< vimeo 65215638 >}}
+[The full lecture and transcript are at Red Bull Music Academy.](https://www.redbullmusicacademy.com/lectures/rakim-lecture)

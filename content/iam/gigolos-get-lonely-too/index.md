@@ -45,3 +45,5 @@ Second, this scene embodies all of the qualities on my list. *Establishing groun
 dot dot dot,
 
 Virgo, The Cusp of Libra
+
+{{< video src="video.mp4" >}}

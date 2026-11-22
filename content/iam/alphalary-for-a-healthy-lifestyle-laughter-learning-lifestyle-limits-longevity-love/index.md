@@ -25,6 +25,8 @@ Faced with reality and an understanding that we have less time, we can laugh and
 
 I Am
 
+{{< video src="video.mp4" >}}
+
 *"You better find some (good) people to do life with.”*
 
 UPDATE: I left out the show was awesome, Don was funny and did not disappoint.

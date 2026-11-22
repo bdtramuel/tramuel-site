@@ -28,4 +28,6 @@ It was her way of distilling my scattered thoughts into something tangible. Some
 
 And since we’re making lists—there are personal preferences too, things that draw me in without effort. A natural approach to life, an ease in their skin, a certain richness in tone and presence. It’s a list that felt aspirational then, but now,
 
+{{< video src="video.mp4" >}}
+
 I wonder if I’ve already met her…

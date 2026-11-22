@@ -37,6 +37,8 @@ I Am (rather I can be) laid back and unruffled. I try not to take anything too p
 
 Please note: According to the official figures 63.48% of all statistics are totally worthless.
 
+{{< video src="video.mp4" >}}
+
 We can be responsible for our negativity, recognize that you will be tempted to react and in fact take it very personal based on what is unresolved in ourselves.
 
 Don’t.

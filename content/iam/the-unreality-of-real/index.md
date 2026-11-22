@@ -25,6 +25,8 @@ Beyond that, these expressions often act as a form of gatekeeping. They establis
 
 It’s hard for me to understand people who claim to want meaningful, loving relationships but refuse to make space for individuality. Reducing others to societal checklists or rigid roles undermines the depth and authenticity that real connection requires. True relationships, whether romantic or platonic, should be rooted in curiosity, respect, and the willingness to embrace someone as they are and not as a reflection of what society says they should be.
 
+{{< video src="video.mp4" >}}
+
 *I wish I had a ‘real woman’ to make me some pancakes.*
 
 O.B. TramueL

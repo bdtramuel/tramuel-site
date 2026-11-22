@@ -10,6 +10,8 @@ tags:
 description: Party people Party people Can y'all get funky? Soul Sonic Force, can y'all get funky? The Zulu Nation, can y'all get funky? Yeah, just hit me...
 ---
 
+{{< song "https://music.apple.com/us/album/planet-rock-original-12-mix/1762069449?i=1762069451" >}}
+
 Party people  
 Party people  
 Can y'all get funky?  

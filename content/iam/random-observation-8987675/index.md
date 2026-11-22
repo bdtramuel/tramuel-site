@@ -30,6 +30,8 @@ Take one of my favorite coffee shops, for instance. On a random morning, you mig
 
 Perfect.
 
+{{< video src="video.mp4" >}}
+
 Then, without fail, it happens. A loud group; office workers on break, parents with unruly kids, or teens with their music leaking from earbuds—ignores the abundance of free space and parks themselves right next to me. It’s as if my corner of calm is marked *“disturb here.”* This pattern isn’t unique to coffee shops. An empty airport terminal? They’ll sit at the next gate over. A quiet bakery with dozens of open tables? Mine is the one they gravitate toward. It’s uncanny andrelentless, and no matter how much I try to avoid the chaos, it seems to find me.
 
 Friends have shared theories about why this happens. Some suggested that because I am quiet and move with a sense of peace, living souls with an opposite energy will be drawn to me. Some suggested that I am *likable* and it pulls people towards me. I find the latter hard to believe—beyond my family and close friends, I’m not exactly a social magnet. Ask any of my “let’s just be friends” ... they're all friends I don't have any more.

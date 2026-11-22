@@ -13,6 +13,8 @@ images:
 - motto_amiri_baraka_original_medium.webp
 ---
 
+{{< song "https://music.apple.com/us/album/dope/279281529?i=279281642" >}}
+
 Amiri Baraka (1934-2014)
 
 Rest.

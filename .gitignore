@@ -6,5 +6,8 @@ tools/bin/
 tools/preview.log
 tools/*.zip
 tools/image-results.txt
+tools/video-raw/
+tools/audio-archive/
+tools/video-download-results.txt
 *.part
 _drafts/

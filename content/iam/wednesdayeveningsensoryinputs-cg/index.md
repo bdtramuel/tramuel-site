@@ -25,3 +25,5 @@ images:
 *I call her name, caught up in how sweet it sounds, it quickly turns to semantic satiation where nothing has meaning anymore.*
 
 *Her kiss is flavorful.*
+
+{{< video src="video.mp4" >}}

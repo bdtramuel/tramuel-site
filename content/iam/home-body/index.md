@@ -32,6 +32,8 @@ Cool, I still fantasize about it.
 
 Sometimes when I am silent, I daydream about being wrapped up in silence.
 
+{{< video src="video.mp4" >}}
+
 0 dB,
 
 B.

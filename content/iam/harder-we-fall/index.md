@@ -34,6 +34,8 @@ I've made it through catastrophes and failures in my career, relationships, and 
 
 In my career, relationships, and self-regulation, I performed a hard reset…
 
+{{< video src="video.mp4" >}}
+
 **Personal "Rebranding" After Failure**
 
 **Set a Goal**

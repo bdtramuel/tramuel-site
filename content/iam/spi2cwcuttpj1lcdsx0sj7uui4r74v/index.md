@@ -13,4 +13,4 @@ images:
 - For-Colored-Boys.webp
 ---
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7i1E_1TS-Mo%26list%3DSPHU7-5IauqKQtIBeH46fPhyPTza64CtrZ%26index%3D7&src=http%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Findex%3D7%26list%3DSPHU7-5IauqKQtIBeH46fPhyPTza64CtrZ&image=http%3A%2F%2Fi1.ytimg.com%2Fvi%2F7i1E_1TS-Mo%2Fhqdefault.jpg&type=text%2Fhtml&schema=youtube&wmode=opaque&enablejsapi=1" width="100%" height="400" frameborder="0" allowfullscreen loading="lazy"></iframe>
+{{< youtube 7i1E_1TS-Mo >}}

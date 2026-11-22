@@ -46,6 +46,8 @@ I regularly get manicures, pedicures, and facials. These are typically where I r
 
 I find it curious that the thing that attracts is often the same thing that detracts. I understand that there are multiple ways of being masculine. There is no such thing as a single, fixed indispensable masculinity. Outdated ideas of masculinity are a noxious weed. My presence on social media gives people a window into my lifestyle, however, it is not the sum of who I Am. Stop romanticizing and idealizing a perception of a person, it is not a realistic summation of who they are only what you’ve created them to be.
 
+{{< video src="video.mp4" >}}
+
 Is writing sassy? Don’t answer, I’m going to stare into my notebook of Things I Don’t Give a Fuck About until the answer comes to me. Maybe I should start typing in 2024? Also rhetorical.
 
 I Remain

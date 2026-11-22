@@ -30,6 +30,8 @@ I’ve been sad lately, but being aware has kept me focused on health and exerci
 
 When your woman is feeling stressed, suggest that she try calming down. This practical advice can guide her to inner peace because every girl can use a little tranquility.
 
+{{< song "https://music.apple.com/us/album/calm-down-feat-ray-vaughn/1716419951?i=1716419953" >}}
+
 ### **Lessons**
 
 One of the most reflective lessons I’ve learned as part of my continuing singlism centers around the creation of stories about ourselves and potential partners— who they are, how they perceive us, how they treat us, and how we both fit into each other's lives. If you believe I am a duck in your story, you will seek evidence to support it. *Read: Makeup Shit* But Brian? quipped the reader, what is the lesson?

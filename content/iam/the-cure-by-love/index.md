@@ -61,4 +61,6 @@ I wish y’all love. I hope you are seen, heard, and understood in your romantic
 
 As for me? I'ma B' chilling on the couch cheering y'all on. Invite me to the wedding or baby shower bruh’.
 
+{{< video src="video.mp4" >}}
+
 O. B. TramueL

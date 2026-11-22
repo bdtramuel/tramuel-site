@@ -12,6 +12,6 @@ images:
 - 9nNwv7J.webp
 ---
 
-The Muhammad Ali interview that introduces the song is from his 1974 interview with Michael Parkinson.
+{{< song title="Patents of Nobility (Unreleased) featuring Muhammad Ali" artist="Jay Electronica" >}}
 
-{{< vimeo 252820616 >}}
+The Muhammad Ali interview that introduces the song is from his 1974 interview with Michael Parkinson.

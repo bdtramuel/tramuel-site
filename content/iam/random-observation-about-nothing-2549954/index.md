@@ -31,4 +31,6 @@ Some people believe the stars are entirely responsible for everything that happe
 
 No matter your ‘minism, the stars do have a say in our stories.
 
+{{< video src="video.mp4" >}}
+
 Press on, quipped the stars, Brian? If the sky is the limit, WTF is outer space?

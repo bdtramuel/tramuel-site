@@ -15,6 +15,8 @@ images:
 - img.webp
 ---
 
+{{< song "https://music.apple.com/us/album/whole-damn-year/1440851006?i=1440851575" >}}
+
 Tryna find a way to explain this  
 Why you can't touch me tonight?  
 I can feel you're getting impatient  

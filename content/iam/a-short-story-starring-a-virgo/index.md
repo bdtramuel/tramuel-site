@@ -44,6 +44,8 @@ Dogmatism— making up stories, while laying down principles as incontrovertibly
 
 It's me, I Am a Virgo
 
+{{< video src="video.mp4" >}}
+
 Except for Big Sis, The Glaws, NOVA, Rock Hill, AVPNise, Rich, The Key and Al who unbegrudgingly offered to help. A Virgo is petty and the petty is not arbitrary— there will be those among you who will querulously ask to use me and my garage to avoid paying to park Uptown for sporting events, concerts, restaurants, and museums to which I will Heeeeee and I will Hawwwww.
 
 Stay Safe,

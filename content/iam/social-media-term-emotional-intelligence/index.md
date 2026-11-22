@@ -37,6 +37,8 @@ Enter other bastardized social media terms — Gaslighting. Triggered. Toxic. Na
 
 *Words have power, and the overuse and misuse of psychological terms can derail important conversations and create assumed meanings.*
 
+{{< video src="video.mp4" >}}
+
 The expression "like pulling teeth" has a distinct feel. It's similar to the struggle of trying to make sense of things, searching for the right angle, idea, or question to bring clarity to a confusing situation. Each person's understanding of what makes sense can be unique and may vary depending on the context.
 
 Science.

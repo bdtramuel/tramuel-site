@@ -31,6 +31,8 @@ As earth signs, we're grounded, realistic, and deeply value dependability in eac
 
 What also drew me to them were those authentic touches that reflected their confidence and versatility. I’m using to me language- Their style felt effortless and natural - from the way they wore their hair, whether silk presses, curls, or natural braids (no weaves or extensions), to their approach to nails and makeup. I admire the authenticity of someone who can switch up their look while staying true to themselves. Natural nails with just a polish and shine, a fresh face, that "just out-of-the-shower" glow - it's a beautiful kind of confidence. And yet, for date nights, events, or work, they could elevate their look with makeup, showing a polished, captivating presence without losing their natural appeal.
 
+{{< video src="video.mp4" >}}
+
 I love intensely, and with these Taurus women, it was as rewarding as it was exhausting. They have this grounded strength that comes with a "matter-of-fact" approach, but when these bulls see red - hold on for the ride. I ain't gonna hold you, I'd willingly, even eagerly, get back on, bucking and all. I've yet to find anyone else who shares the same values, aesthetic, appreciation for beauty in all forms (whether in nature, art, design, food or voices), or that same intensity in intimacy.
 
 If you're in love with a Taurus,and wanna stick around for the ride, baby, hol' on tight

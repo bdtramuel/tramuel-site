@@ -13,8 +13,6 @@ images:
 - staganddoe.webp
 ---
 
-{{< youtube zVMsgI6RI5M >}}
-
 On the eve of their wedding, Chris and Camille put their relationship to the test at a joint bachelor/bachelorette party.
 
 Winner, 2010 HBO Short Film Award, American Black Film Festival.

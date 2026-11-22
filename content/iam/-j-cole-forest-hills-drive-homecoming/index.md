@@ -12,6 +12,5 @@ tags:
 thumbnail: 4307b2bf.webp
 images:
 - 4307b2bf.webp
+draft: true
 ---
-
-{{< youtube 2GbfabuCW1g >}}

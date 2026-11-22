@@ -38,6 +38,8 @@ These women are beautiful—not just in appearance but in their persistence, the
 
 So what else are women for? They are for living authentically, for seeking the love they desire without shame, and for embracing their full humanity. Whether in friendship, romance, or solitude, their lives are their own to define—and that is more than enough.
 
+{{< video src="video.mp4" >}}
+
 *Sometimes when I write, my focus is more on self-expression than on tailoring my words for an audience,*
 
 *O.B. TramueL*

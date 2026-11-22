@@ -17,6 +17,8 @@ images:
 
 {{< youtube 4cB744kWuLc >}}
 
+{{< song title="Better in Tune with the Infinite" artist="Jay Electronica" >}}
+
 Act II: Patents of Nobility [The Turn]
 
 # ?

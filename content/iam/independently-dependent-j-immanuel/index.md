@@ -78,6 +78,8 @@ She loudly and proudly proclaimed that:
 
 This is the ONLY thing of VALUE women have to offer men…
 
+{{< video src="video.mp4" >}}
+
 *Do you agree with her or nah?*
 
 Stay blessed,

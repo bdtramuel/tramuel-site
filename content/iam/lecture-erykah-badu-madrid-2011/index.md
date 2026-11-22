@@ -12,4 +12,4 @@ images:
 - erykahbadu1.webp
 ---
 
-{{< vimeo 82700156 >}}
+[The full lecture and transcript are at Red Bull Music Academy.](https://www.redbullmusicacademy.com/lectures/erykah-badu-frother-of-the-month)

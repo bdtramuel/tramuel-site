@@ -34,3 +34,5 @@ Watching the sun beat in through the windows, creating dramatic light and shadow
 Now the strong scent of coffee, w/ the mild scent of honey—
 
 Gifts, of taste, sweetness, refreshment and surprise.
+
+{{< video src="video.mp4" >}}

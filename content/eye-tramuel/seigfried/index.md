@@ -16,3 +16,5 @@ tags:
 ---
 
 I’d Do Anything For You
+
+{{< video src="video.mp4" >}}

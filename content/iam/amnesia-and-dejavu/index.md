@@ -35,6 +35,8 @@ No boundaries.
 
 Compersion is the opposite of jealousy and possessiveness when a friend experiences happiness and growth from an intimate relationship with someone else. I find it curious when people tell us they want us to be happy, but only if it is attached to them facilitating it, *Read: It is the compassionate joy we feel for somebody else, even when their positive experience does not involve or benefit us directly.*
 
+{{< video src="video.mp4" >}}
+
 Covertly,
 
 Me

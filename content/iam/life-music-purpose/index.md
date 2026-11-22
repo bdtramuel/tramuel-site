@@ -18,6 +18,8 @@ images:
 
 This goes so hard …
 
+{{< song "https://music.apple.com/us/album/no-sense-feat-travis-scott/1440825845?i=1440826509" >}}
+
 *🎧 Focus ain’t the same if the picture ain’t got you in it  
 In every line my  
 Emotions ain’t the same if it ain’t about you, I don’t get it  

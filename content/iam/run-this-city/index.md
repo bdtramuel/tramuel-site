@@ -11,9 +11,8 @@ description: '"With a view like that, we''re just surprised you didn''t push for
 thumbnail: img.webp
 images:
 - img.webp
+draft: true
 ---
-
-{{< youtube fGtRS-JoDAs >}}
 
 ![](____NikeRunning__RunThisCity__CLT__FourthofJuly__nikeplus.webp)
 ![](_Maestro_Walking_the_humans___RunThisCity__TheFuture__CLT.webp)

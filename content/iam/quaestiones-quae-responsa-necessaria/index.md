@@ -60,3 +60,5 @@ She wants to serve me, not that I Am a mighty King, but as a way to enhance my l
 I am hopeful for the emotion, the abstraction that is hard to quantify and define…
 
 *Love*
+
+{{< video src="video.mp4" >}}

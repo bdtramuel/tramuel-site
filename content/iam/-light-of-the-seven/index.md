@@ -18,6 +18,8 @@ images:
 
 ## Winter is Coming
 
+{{< song "https://music.apple.com/us/album/light-of-the-seven/1454871492?i=1454871496" >}}
+
 ![](image-asset.webp)
 
 *"I do things because they feel good. I drink because it feels good. I killed my husband because it felt good to get rid of him. I fuck my brother because it feels good to feel him inside me. I lie about fucking my brother, because it feels good to keep our son safe from hateful hypocrites. I killed your High Sparrow and all his little sparrows, all his leptons, all his septa, all his filthy soldiers, because it felt good to watch them burn. It felt good to imagine their shock and their pain. No thought has ever given me greater joy."  -*Cerise to Septa Unella

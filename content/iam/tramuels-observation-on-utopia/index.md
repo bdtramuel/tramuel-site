@@ -44,6 +44,8 @@ Aesthetically pleasing appearance: Features that evoke admiration and a sense of
 
 A genuine elegance and kindness, seamlessly blending politeness with warmth in their interactions and demeanor.
 
+{{< video src="video.mp4" >}}
+
 Of course, ain't nobody walking around like this twenty-four seven however, as key characteristics of someone's personality, it can carve out a piece of some Peace.
 
 Two Fingers, One Word

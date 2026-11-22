@@ -38,6 +38,8 @@ I will carefully limit the use of either or expressions that tend to dichotomize
 
 Wait. Maybe this is the effect of Mercury Retrograde.
 
+{{< video src="video.mp4" >}}
+
 Harm None,
 
 O. B. TramueL

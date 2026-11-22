@@ -22,7 +22,7 @@ I’m learning (& practicing) not becoming upset when some- thing/one irritates 
 
 Lol, I’m just serious.
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FC_Vt8kjEemI%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC_Vt8kjEemI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FC_Vt8kjEemI%2Fhqdefault.jpg&key=61d05c9d54e8455ea7a9677c366be814&type=text%2Fhtml&schema=youtube" width="100%" height="400" frameborder="0" allowfullscreen loading="lazy"></iframe>
+{{< youtube C_Vt8kjEemI >}}
 
 I love my connection with *(redacted)*, she has a very calming nature, she also directly and indirectly challenges me to change the way I think. Let’s reuse the driving scenario; I’ve been licensed and driving since sixteen and I’ve stayed at a Holiday Inn once or twice so I can predict most traffic patterns, armed with this knowledge I can anticipate how others will behave – if I expect it to happen, before it happens I don’t get upset when it happens.
 

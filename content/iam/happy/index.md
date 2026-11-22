@@ -31,4 +31,6 @@ I am human with uncountable emotions and I won’t suppress the bad ones, if I a
 
 ***“Saying you are happy isn’t the same as being happy”***
 
+{{< video src="video.mp4" >}}
+
 B’ happy.

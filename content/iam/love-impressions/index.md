@@ -43,6 +43,8 @@ With family, friends, or a new love, I will consider their idiosyncrasies as a l
 
 …hug her and appreciate the fact that she is there with me. Her being there with me > things neat, organized, and in good order, with no dishes in the sink.
 
+{{< video src="video.mp4" >}}
+
 The dishes are a reminder of the beautiful people in my life. Love impressions - unintended, unexpected, and unendurably full of love.
 
 I Am

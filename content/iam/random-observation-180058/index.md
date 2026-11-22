@@ -42,4 +42,6 @@ Fall in love with you, not selfishly but appreciatively.
 
 It is a source of love that will never run out.
 
+{{< video src="video.mp4" >}}
+
 I Am

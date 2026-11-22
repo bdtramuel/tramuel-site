@@ -24,3 +24,5 @@ Although I Am a consumer of music, I Am also creating. Creating memories on my m
 The beat goes on, but here we are, just shy of forty-eight years gone, and there’s old music, whole songs my brain acknowledges the instant the beat drops, there are few things I can fathom, that invoke such passion.
 
 Music feeds the soul by imbuing the right mixture of sounds and lyrics. There is nothing else to me that creates more mind movies; visual, kinesthetic, and auditory realities (or fantasies) than music.
+
+{{< song "https://music.apple.com/us/album/he-loves-me-lyzel-in-e-flat/1416153023?i=1416160585" >}}

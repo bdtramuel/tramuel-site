@@ -13,6 +13,8 @@ images:
 - A10432.webp
 ---
 
+{{< song "https://music.apple.com/us/album/games-people-play/1270875359?i=1270875475" >}}
+
 "Games People Play," produced by Kurtis Blow and Jellybean Benitez, performed by Sweet G.
 
 #Classic
